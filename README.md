@@ -40,8 +40,7 @@ Smart-Agro is an IoT and robotics-based agricultural system designed to automate
 
 Sensors → Microcontroller → Decision Logic → Motor/Pump → (Optional IoT Dashboard)
 
-yaml
-Copy code
+
 
 ---
 
@@ -69,19 +68,6 @@ This project is based on a published academic paper:
 - Fertilizer recommendation model  
 - Fully solar-powered deployment  
 
----
-
-## 📂 Repository Structure
-
-Smart-Agro-IoT-System/
-│── README.md
-│── LICENSE
-│── requirements.txt
-│── Research_Link.txt
-│── images/ (optional)
-
-yaml
-Copy code
 
 ---
 
