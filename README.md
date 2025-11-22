@@ -64,8 +64,8 @@ Smart-Agro is an IoT-enabled automation system designed to empower farmers with 
 1. Install **Arduino IDE**
 2. Connect hardware components according to the circuit
 3. Install required libraries:
-DHT.h
-LiquidCrystal_I2C.h
+DHT.h,
+LiquidCrystal_I2C.h,
 ESP8266WiFi.h
 4. Upload the `.ino` file
 5. Power the system and monitor operations
