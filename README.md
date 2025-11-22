@@ -16,72 +16,6 @@ Smart-Agro is an IoT-enabled automation system designed to empower farmers with 
 </p>
 
 ---
----
-
-## 🎯 Objective
-
-- Monitor soil moisture, temperature, humidity, and pH levels  
-- Automate irrigation using real-time data  
-- Reduce manual labor and improve resource efficiency  
-- Support sustainable agriculture practices  
-
----
-
-## 🛠 Hardware Components
-
-| Component | Purpose |
-|----------|---------|
-| Arduino / ESP32 | Controller board |
-| Soil Moisture Sensor | Water level monitoring |
-| DHT11 Sensor | Humidity & temperature readings |
-| pH Sensor | Soil acidity analysis |
-| L298 Motor Driver | Controls pump & motors |
-| Relay | Automated irrigation switching |
-| Battery / Solar Power | Power source |
-
----
-
-## ⚙ System Workflow
-
-Sensors → Microcontroller → Decision Logic → Motor/Pump → (Optional IoT Dashboard)
-
-
-
----
-
-## 📄 Published Research Reference
-
-This project is based on a published academic paper:
-
-🔗 https://irojournals.com/iroismac/article/view/6/3/2
-
----
-
-## 🚀 Features
-
-- Real-time environmental monitoring  
-- Automated irrigation control  
-- Expandable to cloud IoT platforms  
-- Low-cost scalable design  
-
----
-
-## 🔧 Future Improvements
-
-- Smartphone application control  
-- AI-based crop health prediction  
-- Fertilizer recommendation model  
-- Fully solar-powered deployment  
-
-
----
-
-## 📜 License
-
-This project is available under the **MIT License** for academic and research use.
-
----
-
 
 ## 🚀 Objective
 
@@ -121,25 +55,7 @@ This project is available under the **MIT License** for academic and research us
 ## 🧪 Software Used
 
 - Arduino IDE  
-- Embedded C  
-- Optional IoT Platforms:  
-  - Blynk  
-  - ThingSpeak  
-  - MQTT  
-
----
-
-## 📂 Folder Structure
-
-Smart-Agro-IoT-System/
-│── SmartAgro.ino
-│── README.md
-│── LICENSE
-│── images/
-│── docs/
-
-yaml
-Copy code
+- Embedded C
 
 ---
 
@@ -149,11 +65,8 @@ Copy code
 2. Connect hardware components according to the circuit
 3. Install required libraries:
 DHT.h
-LiquidCrystal_I2C.h (optional)
-ESP8266WiFi.h (if IoT used)
-
-yaml
-Copy code
+LiquidCrystal_I2C.h
+ESP8266WiFi.h
 4. Upload the `.ino` file
 5. Power the system and monitor operations
 
