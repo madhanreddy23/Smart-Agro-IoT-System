@@ -1,16 +1,21 @@
-![Status](https://img.shields.io/badge/Project-Active-brightgreen)
-![Tech](https://img.shields.io/badge/IoT-Arduino-blue)
-![Research](https://img.shields.io/badge/Published-Yes-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Made With](https://img.shields.io/badge/Powered%20By-Engineering%20&%20AI-red)
+# 🌿 SMART-AGRO: IoT-Based Crop Automation System
+
+Smart-Agro is an IoT-enabled automation system designed to empower farmers with real-time crop monitoring, intelligent irrigation control, and robotics-driven field operations. The system integrates **sensors, automation, and microcontrollers** to reduce manual labor and improve crop productivity.
+
+---
+
+## 🏷️ Badges
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=SMART+AGRO+IOT+SYSTEM+%7C+AGRIBOT" alt="Smart Agro Banner">
+  <img src="https://img.shields.io/badge/Platform-Arduino-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-Enabled-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Precision-Farming-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Active-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sensors-DHT11%20|%20Moisture%20|%20pH-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Research%20Project-purple?style=for-the-badge" />
 </p>
-# 🤖🌱 Smart-Agro: Enhancing Crop Management with AgriBot
 
-Smart-Agro is an IoT and robotics-based agricultural system designed to automate irrigation and monitor real-time environmental conditions. The project focuses on improving crop management efficiency, sustainability, and precision farming using automated decision systems.
-
+---
 ---
 
 ## 🎯 Objective
